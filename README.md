@@ -9,7 +9,7 @@
 <p>Estoy aprendiendo <b>PHP POO</b>, para en un futuro estudiar JavaScript y aprender a usar Laravel.<br>
    💞️ De momento no estoy muy interesado en participar en proyectos ajenos, por ya que apenas voy entrando en la Universidad.<br>
    📫 ¿Como puedes contactarme?<br>
-   Puedes usar mi correo cordovadiegoemilio@gmail.com
+   Puedes usar mi correo cordovadiegoemilio@gmail.com <br>
    😄 Pronombres: Él<br>
 </p>
 
