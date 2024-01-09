@@ -1,6 +1,6 @@
-- 👋 Hola soy Daigus7105CC, pueden llamarme Diego
-- 👀 Estoy especialmente interesado en el desarrollo web.
-- 🌱 Estoy aprendiendo PHP, para en un futuro estudiar JavaScript y aprender a usar Laravel.
+- 👋 Hola soy <b>Daigus7105CC</b>, pueden llamarme Diego
+- 👀 Estoy especialmente interesado en el desarrollo web. Conozco lo basico de PHP y tengo un bueno manejo con el SQL, tambien me defiendo en HTML.
+- 🌱 Estoy aprendiendo PHP POO, para en un futuro estudiar JavaScript y aprender a usar Laravel.
 - 💞️ De momento no estoy muy interesado en participar en proyectos ajenos, por ya que apenas voy entrando en la Universidad.
 - 📫 ¿Como puedes contactarme?
 - Puedes usar mi correo cordovadiegoemilio@gmail.com
