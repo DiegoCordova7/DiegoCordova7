@@ -1,5 +1,5 @@
 <h1>👋¡Hola!</h1>
- <p>Soy <b>Daigus7105CC</b>, pueden llamarme Diego.<br></p>
+ <p>Soy <b>DiegoCordova7</b>, pueden llamarme Diego.<br></p>
 <p>👀 Estoy especialmente interesado en el desarrollo web. Tengo conocimientos y experiencia sobre:</p>
 <ul>
   <li>HTML.</li>
