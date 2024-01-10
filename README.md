@@ -9,7 +9,7 @@
 <p>Estoy aprendiendo <b>PHP POO</b>, para en un futuro estudiar JavaScript y aprender a usar Laravel.<br>
    💞️ De momento no estoy muy interesado en participar en proyectos ajenos, ya que apenas voy entrando en la Universidad.<br>
    📫 ¿Como puedes contactarme?<br>
-   Puedes usar mi correo <a href="[[GTvVlcSGLPqSGHldpxdGXJxBlRFfnwrSQmGQQpNLXVzKtrsmVtFwNdpsNhgrDTWJdBWHFCcTJxLrN]](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPqSGHldpxdGXJxBlRFfnwrSQmGQQpNLXVzKtrsmVtFwNdpsNhgrDTWJdBWHFCcTJxLrN)"><b>cordovadiegoemilio@gmail.com</b>.<br>
+   Puedes usar mi correo <a href="[GTvVlcSGLPqSGHldpxdGXJxBlRFfnwrSQmGQQpNLXVzKtrsmVtFwNdpsNhgrDTWJdBWHFCcTJxLrN](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLPqSGHldpxdGXJxBlRFfnwrSQmGQQpNLXVzKtrsmVtFwNdpsNhgrDTWJdBWHFCcTJxLrN)"><b>cordovadiegoemilio@gmail.com</b>.<br>
    😄 Pronombres: Él<br>
 </p>
 
