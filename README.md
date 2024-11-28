@@ -4,9 +4,10 @@
 <ul>
   <li>HTML.</li>
   <li>PHP.</li>
-  <li>SQL.</li>
+  <li>Java.</li>
+  <li>SQL.(PostgreSQL, HeidiSQL, MariaDB, SQL Manager Studio y SQLite)</li>
 </ul>
-<p>Estoy aprendiendo <b>PHP POO</b>, para en un futuro estudiar JavaScript y aprender a usar Laravel.<br>
+<p>Estoy aprendiendo <b>PHP POO e Interfaces graficas con Java</b>, aprender a usar Laravel y otros Frameworks<br>
    💞️ De momento no estoy muy interesado en participar en proyectos ajenos, ya que apenas voy entrando en la Universidad.<br>
    📫 ¿Como puedes contactarme?<br>
    Puedes usar mi correo <b>cordovadiegoemilio@gmail.com</b>.<br>
