@@ -1,20 +1,34 @@
-<h1>👋¡Hola!</h1>
- <p>Soy <b>DiegoCordova7</b>, pueden llamarme Diego.<br></p>
-<p>👀 Estoy especialmente interesado en el desarrollo web. Tengo conocimientos y experiencia sobre:</p>
-<ul>
-  <li>HTML.</li>
-  <li>PHP.</li>
-  <li>Java.</li>
-  <li>SQL.(PostgreSQL, HeidiSQL, MariaDB, SQL Manager Studio y SQLite)</li>
-</ul>
-<p>Estoy aprendiendo <b>PHP POO e Interfaces graficas con Java</b>, aprender a usar Laravel y otros Frameworks<br>
-   💞️ De momento no estoy muy interesado en participar en proyectos ajenos, ya que apenas voy entrando en la Universidad.<br>
-   📫 ¿Como puedes contactarme?<br>
-   Puedes usar mi correo <b>cordovadiegoemilio@gmail.com</b>.<br>
-   😄 Pronombres: Él<br>
-</p>
+### ¡Hola! Soy Diego Cordova
 
-<!---
-DiegoCordova7/DiegoCordova7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy estudiante de ingeniería y desarrollador en formación, con un enfoque sólido en **Java**, **programación orientada a objetos** y **diseño de sistemas**. Me interesa especialmente el desarrollo de **videojuegos por turnos**, la **arquitectura limpia**, y los **patrones de diseño**, tanto a nivel de código como de bases de datos.
+
+---
+
+### Tecnologías y herramientas
+
+- Lenguajes: **Java**, **Scala**, **SQL** (PostgreSQL, MariaDB, SQLite)
+- Paradigmas: **Programación orientada a objetos** y **funcional**
+- Herramientas: **IntelliJ IDEA**, **HeidiSQL**, **SQL Server Management Studio**
+- Actualmente aprendiendo: **LibGDX**, **NoSQL**, e **interfaces gráficas en Java**
+
+---
+
+### Proyecto destacado
+
+- **RPG por turnos en Java**: Proyecto modular con controladores, DTOs, habilidades, enemigos con IA y carga de datos desde JSON. Planeo migrarlo próximamente a LibGDX.
+
+---
+
+### Objetivos a corto plazo
+
+- Implementar interfaz gráfica con **LibGDX**
+- Consolidar conocimientos en **estructuras de datos** y **patrones de diseño**
+- Estudiar **grafos** y **algoritmos avanzados**
+
+---
+
+### Contacto
+
+Puedes escribirme a: **cordovadiegoemilio@gmail.com**
+
+**Pronombres:** Él / Him
