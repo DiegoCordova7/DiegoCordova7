@@ -2,6 +2,8 @@
 
 Soy estudiante de ingeniería y desarrollador en formación, con un enfoque sólido en **Java**, **programación orientada a objetos** y **diseño de sistemas**. Me interesa especialmente el desarrollo de **videojuegos por turnos**, la **arquitectura limpia**, y los **patrones de diseño**, tanto a nivel de código como de bases de datos.
 
+Me considero un **entusiasta del aprendizaje continuo**, siempre dispuesto a explorar nuevas tecnologías, mejorar mis habilidades y llevar mis proyectos al siguiente nivel.
+
 ---
 
 ### Tecnologías y herramientas
@@ -15,7 +17,7 @@ Soy estudiante de ingeniería y desarrollador en formación, con un enfoque sól
 
 ### Proyecto destacado
 
-- **RPG por turnos en Java**: Proyecto modular con controladores, DTOs, habilidades, enemigos con IA y carga de datos desde JSON. Planeo migrarlo próximamente a LibGDX.
+- **RPG por turnos en Java**: Proyecto modular con controladores, DTOs, habilidades, enemigos con IA y sistema de persistencia con SQL (PostgreSQL) y NoSQL (MongoDB). Planeo migrarlo próximamente a LibGDX.
 
 ---
 
