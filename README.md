@@ -16,7 +16,7 @@ Currently developing **Eidos**, a multiparadigm programming language with an exp
 ## Technologies
 
 **Languages**  
-Java · Scala · Python
+Java · Scala
 
 **Tooling**  
 Gradle · Maven · Git · Docker · IntelliJ IDEA · JVM
