@@ -1,63 +1,82 @@
-# ¡Hola! Soy Diego Cordova
+# Diego Cordova
 
-Soy estudiante de ingeniería y desarrollador en formación, enfocado en **lenguajes de programación, compiladores, intérpretes y máquinas virtuales**. Mi principal proyecto es **Eidos**, un lenguaje multiparadigma diseñado para exploración académica y desarrollo de VMs eficientes.
+Engineering student focused on programming languages, compiler construction, and virtual machine design on the JVM.
 
-Me apasiona **crear herramientas que traduzcan y ejecuten código de manera segura y optimizada**, aplicando patrones de diseño, arquitectura limpia y técnicas avanzadas de programación.
+Currently developing **Eidos**, a multiparadigm programming language with an explicit static type system and a custom stack-based virtual machine designed for language experimentation, semantic analysis, and efficient bytecode execution.
 
----
+## Areas of Interest
 
-## Tecnologías y herramientas
+* Programming language design
+* Compilers and interpreters
+* Virtual machines and bytecode execution
+* Runtime systems
+* Type systems and semantic analysis
+* Software architecture and developer tooling
 
-- **Lenguajes:** Java, Scala, Python  
-- **Paradigmas:** Orientado a objetos, funcional, imperativo  
-- **Herramientas:** IntelliJ IDEA, Maven/Gradle, Git, Docker, JVM  
-- **Actualmente aprendiendo:** Compiladores, intérpretes, optimización de VMs, análisis léxico y sintáctico, estructuras de datos avanzadas  
+## Technologies
 
----
+**Languages**
+Java · Scala · Python
 
-## Proyectos destacados
+**Tooling**
+Gradle · Maven · Git · Docker · IntelliJ IDEA · JVM
 
-### 1. Eidos (Lenguaje)
-Repositorio: [Eidos en GitHub](#) *(https://github.com/DiegoCordova7/eidos)*
-
-**Descripción:**  
-Eidos es un lenguaje multiparadigma con tipado estático explícito, control de mutabilidad, scopes léxicos y soporte para pipelines funcionales.
-
-- Diseñado para exploración académica y práctica de compiladores  
-- Sintaxis clara y modular, enfocada en legibilidad y extensibilidad  
-- Planeación para integraciones futuras con VMs y optimización JIT  
-
-**Objetivo:**  
-Crear un lenguaje completo desde la definición de sintaxis hasta la ejecución en VM, aplicando teoría de compiladores y buenas prácticas de arquitectura de software.
+**Currently studying**
+Compiler design · Parsing · Semantic analysis · Runtime optimization · VM architecture
 
 ---
 
-### 2. Eidos VM (Máquina Virtual)
-Repositorio: [Eidos VM en GitHub](#) *(https://github.com/DiegoCordova7/eidos-vm)*
+# Projects
 
-**Descripción:**  
-La VM de Eidos es la plataforma de ejecución del lenguaje, diseñada para soportar múltiples paradigmas y garantizar un rendimiento eficiente.
+## Eidos Language
 
-- Ejecución de bytecode generado a partir del lenguaje Eidos  
-- Gestión de memoria, scopes léxicos y control de mutabilidad  
-- Pruebas unitarias y diseño modular para extensibilidad  
-- Planeación de optimización y compilación JIT  
+Repository:
+[Eidos Language](https://github.com/DiegoCordova7/eidos?utm_source=chatgpt.com)
 
-**Objetivo:**  
-Construir una máquina virtual capaz de ejecutar código Eidos de manera segura y eficiente, sirviendo como base para futuros compiladores y herramientas.
+A multiparadigm programming language featuring:
 
----
+* Explicit static typing
+* Lexical scoping
+* Mutability control
+* Modular AST architecture
+* Semantic analysis
+* Bytecode compilation
+* Extensible compiler pipeline
 
-## Objetivos a corto plazo
+Current architecture:
 
-- Mejorar el rendimiento y optimización de la VM de Eidos  
-- Implementar un traductor de alto nivel a bytecode  
-- Profundizar en compiladores, intérpretes y análisis de código  
-- Documentar Eidos y su arquitectura para futuros colaboradores  
+Lexer → Parser → Semantic Analyzer → Compiler → VM
 
 ---
 
-## Contacto
+## Eidos VM
 
-📧 cordovadiegoemilio@gmail.com  
-**Pronombres:** Él / Him
+Repository:
+[Eidos VM](https://github.com/DiegoCordova7/eidos-vm?utm_source=chatgpt.com)
+
+A stack-based virtual machine written in Java for executing Eidos bytecode.
+
+Features:
+
+* Stack-based execution model
+* Heap memory and lexical scopes
+* Modular opcode/instruction system
+* Structured control flow
+* Program builder APIs
+* Designed for future optimization and JIT experimentation
+
+---
+
+## Current Goals
+
+* Expand Eidos semantic analysis
+* Add first-class functions and functional pipelines
+* Improve VM metrics and observability
+* Develop IDE-oriented tooling
+* Increase test coverage and documentation
+
+---
+
+## Contact
+
+📧 [cordovadiegoemilio@gmail.com](mailto:cordovadiegoemilio@gmail.com)
