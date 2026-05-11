@@ -31,7 +31,7 @@ Compiler design · Parsing · Semantic analysis · Runtime optimization · VM ar
 ## Eidos Language
 
 Repository:
-[Eidos Language](https://github.com/DiegoCordova7/eidos?utm_source=chatgpt.com)
+[Eidos Language](https://github.com/DiegoCordova7/eidos)
 
 A multiparadigm programming language featuring:
 
@@ -52,7 +52,7 @@ Lexer → Parser → Semantic Analyzer → Compiler → VM
 ## Eidos VM
 
 Repository:
-[Eidos VM](https://github.com/DiegoCordova7/eidos-vm?utm_source=chatgpt.com)
+[Eidos VM](https://github.com/DiegoCordova7/eidos-vm)
 
 A stack-based virtual machine written in Java for executing Eidos bytecode.
 
