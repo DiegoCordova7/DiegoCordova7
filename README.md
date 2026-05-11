@@ -1,8 +1,8 @@
 # Diego Cordova
 
-Engineering student focused on programming languages, compiler construction, and virtual machine design on the JVM.
+Computer engineering student focused on programming languages, compiler construction, runtime systems, and JVM-based virtual machine design.
 
-Currently developing **Eidos**, a multiparadigm programming language with an explicit static type system and a custom stack-based virtual machine designed for language experimentation, semantic analysis, and efficient bytecode execution.
+Currently developing **Eidos**, a multiparadigm programming language with an explicit static type system and a custom stack-based VM designed for language experimentation, semantic analysis, and efficient bytecode execution.
 
 ## Areas of Interest
 
@@ -15,13 +15,13 @@ Currently developing **Eidos**, a multiparadigm programming language with an exp
 
 ## Technologies
 
-**Languages**
+**Languages**  
 Java · Scala · Python
 
-**Tooling**
+**Tooling**  
 Gradle · Maven · Git · Docker · IntelliJ IDEA · JVM
 
-**Currently studying**
+**Currently studying**  
 Compiler design · Parsing · Semantic analysis · Runtime optimization · VM architecture
 
 ---
@@ -30,8 +30,8 @@ Compiler design · Parsing · Semantic analysis · Runtime optimization · VM ar
 
 ## Eidos Language
 
-Repository:
-[Eidos Language](https://github.com/DiegoCordova7/eidos)
+Repository:  
+[Eidos Language](https://github.com/DiegoCordova7/eidos-lang)
 
 A multiparadigm programming language featuring:
 
@@ -43,7 +43,7 @@ A multiparadigm programming language featuring:
 * Bytecode compilation
 * Extensible compiler pipeline
 
-Current architecture:
+Pipeline architecture:
 
 Lexer → Parser → Semantic Analyzer → Compiler → VM
 
@@ -51,7 +51,7 @@ Lexer → Parser → Semantic Analyzer → Compiler → VM
 
 ## Eidos VM
 
-Repository:
+Repository:  
 [Eidos VM](https://github.com/DiegoCordova7/eidos-vm)
 
 A stack-based virtual machine written in Java for executing Eidos bytecode.
@@ -67,11 +67,33 @@ Features:
 
 ---
 
+## Eidos API
+
+Repository:  
+[Eidos API](https://github.com/DiegoCordova7/eidos-api)
+
+REST API built with Spring Boot for executing Eidos programs through the language engine and virtual machine.
+
+Features:
+
+* HTTP-based code execution
+* Integration with Eidos Lang Engine and VM
+* Runtime metrics collection
+* Prometheus/Grafana observability support
+* Modular service architecture
+* Execution profiling and monitoring
+
+Architecture:
+
+Client → API → Lang Engine → VM
+
+---
+
 ## Current Goals
 
 * Expand Eidos semantic analysis
 * Add first-class functions and functional pipelines
-* Improve VM metrics and observability
+* Improve runtime metrics and observability
 * Develop IDE-oriented tooling
 * Increase test coverage and documentation
 
